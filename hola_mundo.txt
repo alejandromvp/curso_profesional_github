@@ -1,1 +1,8 @@
-primera linea de codigo
+#instrucciones git
+
+git init 
+git add name_archivo | git add.
+git commit -m "mensaje"
+git remote add origin 'your_url_name'
+git push -u origin master
+git log nombre_archivo // muestra historial de cambios de archivo
